@@ -1,0 +1,31 @@
+
+{
+  "name": "education",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/MarynaA/HomeTasks#readme",
+  "bugs": {
+    "url": "https://github.com/MarynaA/HomeTasks/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarynaA/HomeTasks.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "boolean.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "task": "node task.js"
+    
+  },
+  "dependencies": {
+    "axios": "^1.12.2",
+    "fs-extra": "^11.3.2",
+    "prettier": "^3.6.2"
+  },
+  "devDependencies": {
+    "eslint": "^9.38.0"
+  }
+}
